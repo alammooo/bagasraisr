@@ -1,0 +1,1 @@
+export const text = `Alhamdulillah, telah terbit 3 eBook pertama saya. Berawal dari mencoba untuk menulis buku pertama, dan saya merasa cukup berat juga membutuhkan waktu lebih lama, akhirnya saya mencoba projek kecil yang niat awalnya untuk membiasakan diri menulis. Setelah berjalan, yang terjadi justru melahirkan 3 tulisan ini dengan ijin Allah.`
