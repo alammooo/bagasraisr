@@ -17,12 +17,16 @@ const navLinks = [
     to: "/books",
   },
   {
-    name: "Contact",
-    to: "/contacts",
+    name: "Design",
+    to: "/design",
   },
   {
     name: "Membership Bertumbuh",
     to: "/membership-bertumbuh",
+  },
+  {
+    name: "Contact",
+    to: "/contacts",
   },
 ]
 

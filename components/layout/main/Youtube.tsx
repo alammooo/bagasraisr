@@ -3,7 +3,7 @@ import { text, title } from "@/data/Youtube/YoutubeData"
 const Youtube = () => {
   return (
     <section>
-      <div className="container mx-auto mb-44 grid max-w-5xl items-center gap-16 md:grid-cols-2">
+      <div className="container mx-auto grid max-w-5xl items-center gap-16 md:grid-cols-2">
         <div className="flex max-w-sm flex-col gap-5 text-zinc-700">
           <h1 className="text-center text-3xl font-bold tracking-wide md:text-right ">
             {title}

@@ -28,10 +28,10 @@ const Home: NextPageWithLayout = () => {
       </Head> */}
       <section className="flex min-h-screen flex-col gap-12 md:gap-40">
         <Hero />
+        <Youtube />
         <JoinButtons />
         <BookList />
         <Ebook />
-        <Youtube />
       </section>
     </>
   )
