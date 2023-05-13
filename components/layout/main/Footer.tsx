@@ -5,6 +5,7 @@ import { BsInstagram } from "react-icons/bs"
 import { GrLinkedinOption } from "react-icons/gr"
 import { BsTwitter } from "react-icons/bs"
 import Link from "next/link"
+import { navLinks } from "@/data/navlinks"
 
 /* print this year */
 const thisYear = new Date().getFullYear()

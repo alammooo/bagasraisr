@@ -1,3 +1,4 @@
+import { navLinks } from "@/data/navlinks"
 import { Transition } from "@headlessui/react"
 import Link from "next/link"
 import { useEffect, useRef, useState } from "react"
