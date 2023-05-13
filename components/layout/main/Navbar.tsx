@@ -3,33 +3,6 @@ import Link from "next/link"
 import { useEffect, useRef, useState } from "react"
 import { RxHamburgerMenu } from "react-icons/rx"
 
-const navLinks = [
-  {
-    name: "About",
-    to: "/about",
-  },
-  {
-    name: "Blog",
-    to: "/blogs",
-  },
-  {
-    name: "Books",
-    to: "/books",
-  },
-  {
-    name: "Design",
-    to: "/design",
-  },
-  {
-    name: "Membership Bertumbuh",
-    to: "/membership-bertumbuh",
-  },
-  {
-    name: "Contact",
-    to: "/contacts",
-  },
-]
-
 export default function Navbar() {
   const [navHeight, setNavHeight] = useState(0)
   const [showNav, setShowNav] = useState(false)

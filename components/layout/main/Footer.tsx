@@ -6,25 +6,6 @@ import { GrLinkedinOption } from "react-icons/gr"
 import { BsTwitter } from "react-icons/bs"
 import Link from "next/link"
 
-const navLinks = [
-  {
-    name: "About",
-    to: "#",
-  },
-  {
-    name: "Blog",
-    to: "#",
-  },
-  {
-    name: "Books",
-    to: "#",
-  },
-  {
-    name: "Contact",
-    to: "#",
-  },
-]
-
 /* print this year */
 const thisYear = new Date().getFullYear()
 
